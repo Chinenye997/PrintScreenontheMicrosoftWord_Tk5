@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Coding practice\PrintScreenontheMicrosoftWord Tk5\PrintScreenontheMicrosoftWord Tk5\bin\Debug\PrintScreenontheMicrosoftWord Tk5.exe.config
+C:\Users\USER\Desktop\Coding practice\PrintScreenontheMicrosoftWord Tk5\PrintScreenontheMicrosoftWord Tk5\bin\Debug\PrintScreenontheMicrosoftWord Tk5.exe
+C:\Users\USER\Desktop\Coding practice\PrintScreenontheMicrosoftWord Tk5\PrintScreenontheMicrosoftWord Tk5\bin\Debug\PrintScreenontheMicrosoftWord Tk5.pdb
+C:\Users\USER\Desktop\Coding practice\PrintScreenontheMicrosoftWord Tk5\PrintScreenontheMicrosoftWord Tk5\obj\Debug\PrintScreenontheMicrosoftWord Tk5.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Coding practice\PrintScreenontheMicrosoftWord Tk5\PrintScreenontheMicrosoftWord Tk5\obj\Debug\PrintScreenontheMicrosoftWord_Tk5.Form1.resources
+C:\Users\USER\Desktop\Coding practice\PrintScreenontheMicrosoftWord Tk5\PrintScreenontheMicrosoftWord Tk5\obj\Debug\PrintScreenontheMicrosoftWord_Tk5.Properties.Resources.resources
+C:\Users\USER\Desktop\Coding practice\PrintScreenontheMicrosoftWord Tk5\PrintScreenontheMicrosoftWord Tk5\obj\Debug\PrintScreenontheMicrosoftWord Tk5.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Coding practice\PrintScreenontheMicrosoftWord Tk5\PrintScreenontheMicrosoftWord Tk5\obj\Debug\PrintScreenontheMicrosoftWord Tk5.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Coding practice\PrintScreenontheMicrosoftWord Tk5\PrintScreenontheMicrosoftWord Tk5\obj\Debug\PrintScreenontheMicrosoftWord Tk5.exe
+C:\Users\USER\Desktop\Coding practice\PrintScreenontheMicrosoftWord Tk5\PrintScreenontheMicrosoftWord Tk5\obj\Debug\PrintScreenontheMicrosoftWord Tk5.pdb
